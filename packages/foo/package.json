@@ -1,0 +1,20 @@
+{
+  "name": "@mono/foo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index",
+  "types": "dist/index",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "rimraf": "~3.0.2",
+    "typescript": "~4.3.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
